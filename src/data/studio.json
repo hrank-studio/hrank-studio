@@ -1,0 +1,156 @@
+{
+  "brand": { "name": "HRank Studio", "phone": "0795.166.009", "phoneHref": "0795166009", "zalo": "https://zalo.me/0795166009" },
+  "navigation": [
+    { "id": "overview", "label": "Tổng quan", "icon": "grid", "number": "01" },
+    { "id": "services", "label": "Giải pháp", "icon": "layers", "number": "02" },
+    { "id": "impact", "label": "Xem khác biệt", "icon": "spark", "number": "03" },
+    { "id": "pricing", "label": "Gói dịch vụ", "icon": "box", "number": "04" },
+    { "id": "process", "label": "Cách chúng tôi làm", "icon": "route", "number": "05" },
+    { "id": "contact", "label": "Kết nối với HRank", "icon": "message", "number": "06" }
+  ],
+  "industries": ["Nhà hàng", "Khách sạn", "Spa & Wellness", "Tour du lịch", "Dịch vụ địa phương"],
+  "highlights": [
+    { "value": "01", "title": "Đúng nơi khách tìm", "description": "Tối ưu hiện diện trên Google Map", "icon": "pin" },
+    { "value": "02", "title": "Kết nối bền vững", "description": "Website & nội dung chuẩn SEO", "icon": "globe" },
+    { "value": "03", "title": "Sẵn sàng kỷ nguyên AI", "description": "Tự động hóa chăm sóc hồ sơ", "icon": "spark" }
+  ],
+  "services": [
+    { "id": "local-seo", "name": "SEO Google Map", "promise": "Để khách hàng tìm thấy bạn.", "description": "Tối ưu hồ sơ doanh nghiệp và từ khóa địa phương, giúp bạn hiện diện đúng lúc khách hàng cần.", "category": "Google Map", "icon": "pin", "tag": "DỊCH VỤ CỐT LÕI", "theme": "sage", "features": ["Tối ưu hồ sơ doanh nghiệp", "SEO từ khóa địa phương", "Xây dựng backlink hàng tháng"] },
+    { "id": "website", "name": "Website & Landing page", "promise": "Một điểm chạm. Nhiều cơ hội.", "description": "Xây dựng nền tảng trực tuyến chuẩn SEO địa phương, đồng nhất với thương hiệu của bạn.", "category": "Website", "icon": "globe", "tag": "NỀN TẢNG THƯƠNG HIỆU", "theme": "sand", "features": ["Website hoặc landing page", "Domain & hosting miễn phí năm đầu", "Tùy chọn SEO website 1 ngôn ngữ"] },
+    { "id": "ai", "name": "AI & nội dung", "promise": "Chăm sóc tốt hơn. Nhẹ việc hơn.", "description": "Giữ hồ sơ luôn được chăm sóc với AI phản hồi đánh giá mới và nội dung được đăng đều đặn.", "category": "AI & nội dung", "icon": "spark", "tag": "VẬN HÀNH THÔNG MINH", "theme": "lavender", "features": ["AI tự động trả lời review mới", "Đăng nội dung theo gói", "Mở rộng hiện diện thương hiệu"] }
+  ],
+  "plans": [
+    { "id": "starter", "name": "Khởi đầu", "subtitle": "Cho bước đi đầu tiên trên bản đồ số.", "price": 5000000, "maintenance": 2000000, "featured": false, "features": ["20 backlink / tháng", "SEO top 2 từ khóa", "Landing page chuẩn SEO địa phương", "AI tự động trả lời review mới", "Đăng 15 tin / tháng", "Miễn phí domain + hosting năm đầu"], "note": "Từ khóa được chọn ngẫu nhiên trong danh sách đề xuất." },
+    { "id": "growth", "name": "Tăng trưởng", "subtitle": "Xây nền tảng, mở rộng cơ hội tiếp cận.", "price": 10000000, "maintenance": 4000000, "featured": true, "features": ["50 backlink / tháng", "SEO top 4 từ khóa", "Website chuẩn SEO địa phương", "AI tự động trả lời review mới", "Đăng tin mới mỗi ngày", "Miễn phí domain + hosting năm đầu"], "note": "Chủ động lựa chọn từ khóa từ danh sách được tư vấn." },
+    { "id": "advanced", "name": "Bứt phá", "subtitle": "Đầu tư sâu hơn cho hiện diện thương hiệu.", "price": 18000000, "maintenance": 8000000, "featured": false, "features": ["100 backlink / tháng", "SEO top 8 từ khóa", "Website chuẩn SEO địa phương", "AI tự động trả lời review mới", "Đăng tin mới mỗi ngày", "Miễn phí domain + hosting năm đầu"], "note": "Tự chọn từ khóa; SEO thêm từ khóa đề xuất trong thời gian duy trì." }
+  ],
+  "pricingNotes": ["Chi phí duy trì chỉ bắt đầu tính sau khi SEO lên top.", "Gia hạn domain + hosting từ năm tiếp theo: 1.500.000đ / năm.", "SEO website 1 ngôn ngữ nếu cần: 2.500.000đ / tháng."],
+  "steps": [
+    { "number": "01", "title": "Lắng nghe & khảo sát", "description": "Hiểu doanh nghiệp, khu vực hoạt động và tình trạng hồ sơ Google Map hiện tại." },
+    { "number": "02", "title": "Đề xuất lộ trình", "description": "Tổng hợp từ khóa, tư vấn gói phù hợp và thống nhất danh sách trước khi triển khai." },
+    { "number": "03", "title": "Tối ưu & triển khai", "description": "Tối ưu Google Map, phát triển website và thiết lập nội dung, AI theo gói dịch vụ." },
+    { "number": "04", "title": "Duy trì & đồng hành", "description": "Chăm sóc hiện diện trực tuyến; bắt đầu tính phí duy trì khi từ khóa lên top." }
+  ],
+  "faqs": [
+    { "question": "Doanh nghiệp nào phù hợp với dịch vụ?", "answer": "HRank Studio hướng đến doanh nghiệp địa phương như nhà hàng, khách sạn, spa, tour du lịch và các đơn vị dịch vụ muốn cải thiện hiện diện trên Google Map và nền tảng trực tuyến." },
+    { "question": "Mất bao lâu để SEO Google Map?", "answer": "Với map mới, thời gian SEO tham khảo khoảng 2–4 tuần. Thời gian thực tế phụ thuộc độ cạnh tranh của khu vực và tình trạng Google Map hiện tại; đây không phải cam kết thời hạn hay thứ hạng." },
+    { "question": "Từ khóa được SEO trong phạm vi nào?", "answer": "Phạm vi tham khảo là bán kính 1–5 km quanh địa điểm doanh nghiệp. Nếu muốn tiếp cận xa hơn, HRank sẽ tư vấn trực tiếp theo điều kiện thực tế." },
+    { "question": "Tôi có được tự chọn từ khóa không?", "answer": "Tất cả từ khóa được tổng hợp và gửi trước khi SEO. Gói 10 triệu và 18 triệu cho phép khách hàng tự chọn; gói 5 triệu chọn ngẫu nhiên trong danh sách đề xuất." },
+    { "question": "Khi nào bắt đầu tính phí duy trì?", "answer": "Sau khi SEO lên top mới bắt đầu tính phí duy trì. Mức phí tương ứng từng gói là 2, 4 hoặc 8 triệu đồng / tháng. Chi tiết điều kiện sẽ được thống nhất khi tư vấn." }
+  ],
+  "introduction": {
+    "eyebrow": "MỘT CÂU HỎI NHỎ, TRƯỚC KHI BẮT ĐẦU",
+    "question": "Bạn muốn doanh nghiệp được tìm thấy nhiều hơn,",
+    "accent": "hay vận hành nhẹ nhàng hơn?",
+    "answer": "Từ SEO Google Map đến website và AI — HRank cùng bạn tìm lời giải.",
+    "signature": "Bắt đầu từ điều doanh nghiệp bạn thực sự cần.",
+    "timing": {
+      "_comment": "2026-11-09: Go nhanh va chi dem 1 giay sau khi ky tu cuoi cung hien thi.",
+      "characterMs": 8,
+      "holdMs": 1000,
+      "exitMs": 180
+    }
+  },
+  "heroStories": [
+    {
+      "id": "map",
+      "label": "SEO Google Map",
+      "eyebrow": "KHÁCH ĐANG TÌM. HÃY ĐỂ HỌ THẤY BẠN.",
+      "headline": "Khách tìm quanh đây.",
+      "accent": "Có doanh nghiệp bạn.",
+      "description": "SEO Google Map giúp doanh nghiệp bạn đến gần hơn với những khách hàng đang tìm dịch vụ quanh đây.",
+      "problem": "Có dịch vụ tốt, nhưng khách hàng chưa tìm thấy?",
+      "solution": "Tối ưu hồ sơ · SEO địa phương · Backlink hàng tháng",
+      "icon": "pin",
+      "cta": "Khám phá SEO Google Map"
+    },
+    {
+      "id": "web",
+      "label": "Website chuẩn SEO",
+      "eyebrow": "MỘT ĐIỂM CHẠM TỐT. MỘT NIỀM TIN MỚI.",
+      "headline": "Không chỉ có mặt.",
+      "accent": "Còn tạo niềm tin.",
+      "description": "Một website chỉn chu, chuẩn SEO. Một điểm chạm để khách hiểu, tin và lựa chọn doanh nghiệp bạn.",
+      "problem": "Khách muốn tìm hiểu, nhưng bạn chưa có website?",
+      "solution": "Website chuẩn SEO · Landing page · Domain & hosting",
+      "icon": "globe",
+      "cta": "Khám phá giải pháp website"
+    },
+    {
+      "id": "ai",
+      "label": "AI & nội dung",
+      "eyebrow": "NHẸ VIỆC CHĂM SÓC. THÊM GIỜ PHÁT TRIỂN.",
+      "headline": "Bớt việc lặp lại.",
+      "accent": "Thêm giờ cho khách.",
+      "description": "AI chăm sóc review, nội dung được cập nhật đều đặn. Bạn dành thời gian cho điều mình làm tốt nhất.",
+      "problem": "Bận vận hành, chưa kịp chăm sóc hồ sơ mỗi ngày?",
+      "solution": "AI trả lời review · Nội dung định kỳ · Hiện diện đều đặn",
+      "icon": "spark",
+      "cta": "Khám phá AI & nội dung"
+    }
+  ],
+  "media": {
+    "hero": { "src": "/images/restaurant.jpg", "alt": "Không gian nhà hàng ấm cúng với cây xanh và ánh sáng tự nhiên" },
+    "inset": { "src": "/images/hotel.jpg", "alt": "Khu nghỉ dưỡng xanh với hồ bơi ngoài trời" },
+    "studio": { "src": "/images/studio.jpg", "alt": "Không gian làm việc sáng và thoáng với cây xanh" },
+    "services": [
+      { "id": "local-seo", "src": "/images/restaurant.jpg", "alt": "Nhà hàng địa phương với nội thất gỗ và ánh sáng ấm", "label": "Được tìm thấy", "caption": "Google Map & Local SEO" },
+      { "id": "website", "src": "/images/digital.jpg", "alt": "Máy tính hiển thị giao diện và dữ liệu kỹ thuật số", "label": "Được tin tưởng", "caption": "Website & Landing page" },
+      { "id": "ai", "src": "/images/studio.jpg", "alt": "Không gian làm việc dành cho vận hành và sáng tạo nội dung", "label": "Nhẹ việc mỗi ngày", "caption": "AI & Content" }
+    ],
+    "industries": [
+      { "name": "Nhà hàng & café", "tag": "TỪ TÌM KIẾM ĐẾN GHÉ THĂM", "src": "/images/restaurant.jpg", "alt": "Không gian nhà hàng với nội thất ấm cúng" },
+      { "name": "Spa & Wellness", "tag": "TỪ ĐIỂM CHẠM ĐẾN NIỀM TIN", "src": "/images/spa.jpg", "alt": "Khăn spa, sản phẩm chăm sóc da, nến và hoa trên nền màu be" },
+      { "name": "Khách sạn & du lịch", "tag": "TỪ KHÁM PHÁ ĐẾN LỰA CHỌN", "src": "/images/hotel.jpg", "alt": "Khu nghỉ dưỡng với hồ bơi và cây nhiệt đới" }
+    ],
+    "credit": "Ảnh minh họa: Unsplash. Không phải hình ảnh dự án khách hàng."
+  },
+  "impactLab": {
+    "_comment": "Thêm ngày 2026-11-08: dữ liệu mô phỏng Growth Lab; các giả định có thể chỉnh, không phải kết quả khách hàng hoặc cam kết hiệu quả.",
+    "eyebrow": "HRANK GROWTH LAB / CHẠM ĐỂ THẤY KHÁC BIỆT",
+    "title": "Đừng chỉ nghe chúng tôi kể.",
+    "accent": "Thử nhìn cách mọi thứ thay đổi.",
+    "description": "Một góc nhìn trực quan: khách tìm thấy bạn thế nào, kết nối ra sao và bạn có thể bớt bao nhiêu thao tác mỗi ngày.",
+    "disclaimer": "Đây là mô phỏng tương tác, không phải số liệu khách hàng, dữ liệu Google hoặc cam kết tăng trưởng. Thời gian được tính từ khối lượng và giả định bạn chọn; kết quả thực tế phụ thuộc cách triển khai.",
+    "tabs": [
+      { "id": "map", "label": "Được tìm thấy", "service": "Google Map", "icon": "pin" },
+      { "id": "website", "label": "Dễ kết nối hơn", "service": "Website", "icon": "globe" },
+      { "id": "operations", "label": "Nhẹ việc mỗi ngày", "service": "AI & vận hành", "icon": "spark" }
+    ],
+    "presets": [
+      { "id": "small", "label": "Quy mô nhỏ", "reviews": 30, "posts": 15 },
+      { "id": "growing", "label": "Đang phát triển", "reviews": 60, "posts": 30 },
+      { "id": "busy", "label": "Nhiều tương tác", "reviews": 120, "posts": 30 }
+    ],
+    "assumptions": { "reviewManual": 5, "reviewAssisted": 1, "postManual": 20, "postAssisted": 8 },
+    "mapChecklist": [
+      { "label": "Thông tin liên hệ nhất quán", "before": true, "after": true },
+      { "label": "Địa chỉ & vị trí doanh nghiệp", "before": true, "after": true },
+      { "label": "Dịch vụ & danh mục rõ ràng", "before": false, "after": true },
+      { "label": "Hình ảnh giới thiệu chỉn chu", "before": false, "after": true },
+      { "label": "Nội dung được cập nhật", "before": false, "after": true },
+      { "label": "Review được chăm sóc", "before": false, "after": true }
+    ],
+    "websiteJourneys": {
+      "before": ["Tìm thông tin dịch vụ", "Tìm số điện thoại", "Mở kênh liên hệ"],
+      "after": ["Chọn liên hệ ngay trên website"]
+    },
+    "optimizationProfile": {
+      "_comment": "2026-11-09: Radar lay gia tri tu khoi luong va gia dinh hien tai; moi truc quy doi ve 0-100, khong dung diem mock co dinh.",
+      "image": "/images/studio.jpg",
+      "imageAlt": "Không gian làm việc của một doanh nghiệp nhỏ, ảnh minh họa",
+      "attributes": [
+        { "id": "reviews", "label": "Phản hồi", "icon": "message", "caption": "Khối lượng review", "detail": "Tỷ lệ số review trên mức tham chiếu. Kéo số đánh giá để thay đổi đỉnh này." },
+        { "id": "content", "label": "Nội dung", "icon": "layers", "caption": "Khối lượng nội dung", "detail": "Tỷ lệ số bài trên mức tham chiếu. Kéo số nội dung để thay đổi đỉnh này." },
+        { "id": "control", "label": "Kiểm soát", "icon": "check", "caption": "Tác vụ có bước rà soát", "detail": "Mô hình luôn giữ bước kiểm duyệt của con người: 100% khi có công việc, 0% khi không có tác vụ." },
+        { "id": "workflow", "label": "Tác vụ", "icon": "route", "caption": "Tổng khối lượng công việc", "detail": "Tổng review và nội dung trên tổng mức tham chiếu. Thay một trong hai đầu vào sẽ cập nhật đỉnh này." },
+        { "id": "time", "label": "Tiết kiệm", "icon": "spark", "caption": "Tỷ lệ thời gian tiết kiệm", "detail": "Thời gian tiết kiệm chia cho thời gian tự xử lý, theo khối lượng và giả định hiện tại. Nếu không tiết kiệm, trục ở mức 0." }
+      ],
+      "capacity": {
+        "_comment": "2026-11-09: Gioi han thanh keo cung la moc 100 cua cac truc khoi luong radar; khong phai cam ket nang luc dich vu.",
+        "reviews": 200,
+        "posts": 60
+      }
+    }
+  }
+}
